@@ -2,6 +2,7 @@
 Supporting files such as policy documents and supplemental information 
 for the [hpc.social Mastodon instance](https://mast.hpc.social) are as provided below:
 
+* The ["About" page](https://mast.hpc.social/about) of the mast.hpc.social server includes links to the policies of the upstream hosting service and additional information about this server instance.
 * [Privacy Policy](https://mast.hpc.social/privacy-policy)
     - Provides information on the privacy policy applied to the [hpc.social Mastodon server](https://mast.hpc.social). This is also linked from within the [mast.hpc.social "About" page](https://mast.hpc.social/about) and both of these are linked directly on each mast.hpc.social content page.
 * [US Digital Millennium Copyright Act (DMCA) Provisions](policies/dmca.md)
