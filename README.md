@@ -12,4 +12,5 @@ For internal discussion of these policies, please use the [Discussions link for 
 
 For any other questions, please feel free to contact us using the 
 [contact information on the hpc.social Mastodon site](https://mast.hpc.social/about) or on the 
-[main hpc.social web site](https://hpc.social).
+[main hpc.social web site](https://hpc.social). You may also contact the [hpc.social Mastodon moderators directly](mailto:mastodon-moderators@hpc.social)
+by email to report issues if necessary.
