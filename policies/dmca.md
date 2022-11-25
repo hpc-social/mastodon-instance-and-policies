@@ -16,7 +16,7 @@ None of this material should be construed as legal advice. We cannot advise you 
 Notification of Copyright Infringement
 --------------------------------------
 
-If you believe that someone on hpc.social Studios has violated your copyright, you may send us a Notification of Copyright Infringement. For us to process such a notification, it must substantially comply with the requirements set forth in United States law. To speed our handling of your notification, please make sure it complies with the following criteria:
+If you believe that someone on hpc.social has violated your copyright, you may send us a Notification of Copyright Infringement. For us to process such a notification, it must substantially comply with the requirements set forth in United States law. To speed our handling of your notification, please make sure it complies with the following criteria:
 
 1.  Notifications may be submitted to hpc.social's Registered Agent in one of two ways. You may send it via email (no attachments, please) to **dmca-reports@hpc.social**, or you may send it via physical mail to **CAC Center, MS 1167, 2515 15th Street, Lubbock, TX 79409**. We prefer to receive notification via email.
 2.  Notifications must be signed by the copyright holder or the copyright holder's designated agent. Signatures may be a physical signature or a digital signature in a recognized industry-standard format such as PGP. Unsigned notifications will not be processed.
