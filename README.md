@@ -1,4 +1,7 @@
-# hpc.social Mastodon instance policies
+# hpc.social Mastodon instance and policies
+
+This repository hosts additional information including a [Discussions area](https://github.com/hpc-social/hpc-social.github.io/discussions/) for topics related to the [hpc.social Mastodon instance](https://mast.hpc.social). Feel free to give feedback or to follow the links below for additional information on the server instance and its policies.
+
 Supporting files such as policy documents and supplemental information 
 for the [hpc.social Mastodon instance](https://mast.hpc.social) are as provided below:
 
