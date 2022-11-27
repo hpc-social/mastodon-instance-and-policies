@@ -11,7 +11,7 @@ for the [hpc.social Mastodon instance](https://mast.hpc.social) are as provided 
 * [US Digital Millennium Copyright Act (DMCA) Provisions](policies/dmca.md)
     - General information about reporting DMCA claims and the process applied to them by the hpc.social organization in response.
 
-For internal discussion of these policies, or other topics related to the Mastodon instance, please use the [Discussions link for this policies repository](https://github.com/hpc-social/mastodon-policies/discussions), or [raise an issue](https://github.com/hpc-social/mastodon-policies/issues) or [create a pull request](https://github.com/hpc-social/mastodon-policies/pulls) if you believe you can offer an improvement.
+For internal discussion of these policies, or other topics related to the Mastodon instance, please use the [Discussions link for this repository](https://github.com/hpc-social/mastodon-policies/discussions), or [raise an issue](https://github.com/hpc-social/mastodon-policies/issues) or [create a pull request](https://github.com/hpc-social/mastodon-policies/pulls) if you believe you can offer an improvement.
 
 For any other questions, please feel free to contact us using the 
 [contact information on the hpc.social Mastodon site](https://mast.hpc.social/about) or on the 
